@@ -1,0 +1,4 @@
+packages:
+  - monorepo-migration-packages/*
+  - packages/*
+  - tooling/*

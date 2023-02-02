@@ -1,0 +1,9 @@
+{
+  "name": "@storis/tsconfig",
+  "description": "Typescript configuration bases",
+  "private": true,
+  "sideEffects": false,
+  "peerDependencies": {
+    "typescript": "^4.5.0"
+  }
+}
